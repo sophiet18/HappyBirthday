@@ -1,4 +1,4 @@
-# Happy Birthday 🎂
+# 🎂
 mar 23 - 
 Followed along the Android Studio tutorial of kotlin. 
 And for the first time, my final product looks distinctly different from the one in the tutorial ~ 
